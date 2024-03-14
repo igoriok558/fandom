@@ -1,0 +1,80 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Output directories
+bin/
+obj/
+publish/
+
+# Visual Studio files
+.vs/
+*.vssscc
+.vscode/
+
+# Rider files
+.idea/
+
+# Resharper files
+_resharper*
+
+# Rider or ReSharper per-user license keys
+*.userlicense
+
+# Roslyn cache directory
+*.ide
+
+# NuGet
+*.nuget/
+*.nupkg
+*.paket/paket.exe
+paket-files/
+
+# Tye files
+.tye/
+
+# MSBuild binary and extra files
+*.Build.Files/
+*.binlog
+*.exe
+*.msi
+*.dll
+*.pdb
+*.ilk
+*.winmd
+*.zip
+*.7z
+*.gz
+*.bz2
+*.nupkg
+*.tar.gz
+*.tgz
+*.vsix
+*.vsixmanifest
+*.xap
+*.xapdeployxml
+*.appx
+*.appxbundle
+*.appxupload
+
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uildLogs/
+sln.local
+
+# Rider/ReSharper files
+__ReSharper*
+*.sln.DotSettings.user
+*.sln.DotSettings
+
+# Rider/ReSharper
+*.[Rr]e[Ss]harper
+*.[Rr]e[Ss]harper[Oo]ut
+*.[Rr]e[Ss]harper[Oo]ut[Oo]f[Oo]Memory
+*.DotSettings
